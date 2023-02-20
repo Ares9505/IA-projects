@@ -1,7 +1,7 @@
 # IA-projects #
 Proyectos de inteligencia artificial:
 
-## Practica 1. Reconocimiento de estado de ánimo en audio ##
+## Práctica 1. Reconocimiento de estado de ánimo en audio ##
 Se aplican técnicas de procesamiento de voz y se genera un modelo de clasificación de moods (estados emocionales)
 Para ellos se usa características de audio como:
 - mfccs 
